@@ -27,6 +27,6 @@ Gitpod: IDE (Integrated Development Environment) where the code was written.
 <br>
 Git: Versioning control system for the code.
 <br>
-Imgur: Website used to host the screenshot of my website. 
+Imgur: Website used to host the screenshot of my website.
 
 
